@@ -34,6 +34,10 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Arduino with "Bare Metal Code" | Ports and Timers of Arduino](https://www.youtube.com/watch?v=t9xKb1dsuQg)
+- [Datasheets ft. NE555 | Understanding the Datasheets](https://www.youtube.com/watch?v=cdezaMsIoXo)
+- [INFINITE Pins for ARDUINO?  |  74595 Shift Register](https://www.youtube.com/watch?v=9ovMEo1bTps)
+- [#1 INTRODUCTION : PL9823 | RGB Shift Register LED](https://www.youtube.com/watch?v=ZQ9-FnPuWd4)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
