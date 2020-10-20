@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning ***How to write Libraries in C***
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2020 Goals: Make Electronics videos more often
-- ⚡ Fun fact: I love to play chess and also play guitar *(Currently Learning)* 🤣
+- ⚡ Fun fact: I love to play chess and also play guitar *(Currently Learning🤣)*
 
 ### Connect with me:
 
