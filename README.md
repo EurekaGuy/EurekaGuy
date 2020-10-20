@@ -1,12 +1,12 @@
 ### Hi there, I'm Tushar - aka [Eureka Guy!][youtube] 👋
 
-## I'm a Programmer, Electronics Enthusiast and Youtuber!!
+## I'm an Electronics Enthusiast, Programmer and Youtuber!!
 
-- 🔭 I just launched my first course: [Become A VS Code SuperHero!][course]!
+- 🔭 I make fun Electronics Videos for [Youtube!][youtube]
 - 🌱 I’m currently learning ***How to write Libraries in C***
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2020 Goals: Make Electronics videos more often for [Youtube] 
-- ⚡ Fun fact: I love to play chess and also play guitar *(Currently Learning)*
+- 🥅 2020 Goals: Make Electronics videos more often
+- ⚡ Fun fact: I love to play chess and also play guitar *(Currently Learning)*🤣
 
 ### Connect with me:
 
