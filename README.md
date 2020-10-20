@@ -19,6 +19,7 @@
 ### Languages and Tools:
 
 <img align="left" alt="C Programming" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.0/icons/c.svg" />
+<img align="left" alt="Kicad" width="60px" src="https://kicad-info.s3.dualstack.us-west-2.amazonaws.com/original/2X/f/fda85df3f53b860aac03fba28d4ec25f2abd5f07.svg" />
 <img align="left" alt="Arduino" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.0/icons/arduino.svg" />
 <img align="left" alt="Python" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.0/icons/python.svg" />
 <img align="left" alt="LabView" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.0/icons/labview.svg" />
